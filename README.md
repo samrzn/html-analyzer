@@ -29,7 +29,7 @@ java HtmlAnalyzer inserir-url-aqui
 CLI para converter código fonte e README.md em arquivo `tar.gz`:
 
 ```bash
-tar -czf samuel_rezende_dos_santos.tar.gz HtmlAnalyzer.java README.md
+tar -czf seu_nome_aqui.tar.gz HtmlAnalyzer.java README.md
 ```
 
 O arquivo `.tar.gz` contém apenas arquivos na raiz (sem diretórios internos).
